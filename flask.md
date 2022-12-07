@@ -30,3 +30,7 @@ Flask is a lightweight web application framework written in Python. It is design
 In this tutorial, we will cover the basics of Flask and how to get started using it to build web applications. We will also introduce some of the core concepts and features of Flask, such as routing, templates, and database integration.
 
 By the end of this tutorial, you will have a basic understanding of Flask and be able to start building your own web applications with it.
+
+## 2. Installing Flask
+To use Flask, you will first need to install it on your machine. Flask can be installed using pip, the Python package manager. If you don't already have pip installed, you can install it by running the following command:
+```python -m ensurepip --default-pip```
