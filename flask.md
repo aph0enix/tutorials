@@ -33,4 +33,4 @@ By the end of this tutorial, you will have a basic understanding of Flask and be
 
 ## 2. Installing Flask
 To use Flask, you will first need to install it on your machine. Flask can be installed using pip, the Python package manager. If you don't already have pip installed, you can install it by running the following command:
-```python -m ensurepip --default-pip```
+  ```python -m ensurepip --default-pip```
